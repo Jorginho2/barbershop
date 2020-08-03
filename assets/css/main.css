@@ -1,0 +1,44 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  background-image: url("../../images/post-image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 80%;
+  text-align: center;
+  text-shadow: 0.125em 0.25em 0.125em #707070;
+  padding: 8.25rem 3.125rem;
+  width: max-content;
+}
+
+/* Header Layout */
+.header {
+  padding-top: 10rem;
+  padding-left: 2rem;
+}
+
+.logo__image {
+  height: 20%;
+  width: 20%;
+}
+
+.main__description {
+  margin-left: 20vw;
+  margin-right: 20vw;
+}
+
+.button {
+  display: inline-block;
+  padding: 8px 14px;
+  text-decoration: none;
+  border-radius: 15px;
+  margin: 5rem 0rem 5rem;
+}
+
+/*# sourceMappingURL=main.css.map */
